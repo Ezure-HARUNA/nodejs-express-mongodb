@@ -1,0 +1,10 @@
+{
+  "name": "express-naturs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Haruna-Ezu0",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
